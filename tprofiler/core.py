@@ -1,0 +1,2 @@
+def grok():
+    return 'grok'
